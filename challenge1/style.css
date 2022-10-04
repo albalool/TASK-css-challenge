@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(36, 2, 58);
+}
+
+.h1 {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family: Cursive;
+    text-align: center
+    }
+
+img {
+        width: 400px;
+        height: 600px;
+    }
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+.p {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    text-align: center
+}
